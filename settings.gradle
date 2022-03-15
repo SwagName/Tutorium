@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Totorium"
-include ':app'
+include ':demo'
